@@ -1,0 +1,11 @@
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\bin\Debug\sinav4.exe.config
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\bin\Debug\sinav4.exe
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\bin\Debug\sinav4.pdb
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.csproj.AssemblyReference.cache
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.Form1.resources
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.Properties.Resources.resources
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.csproj.GenerateResource.cache
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.csproj.CoreCompileInputs.cache
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.exe
+C:\Users\ceyda\Desktop\sınavGörsel\sinav4\sinav4\obj\Debug\sinav4.pdb
